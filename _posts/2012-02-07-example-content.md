@@ -1,138 +1,119 @@
 ---
 layout: post
-title: Example content
+title: Clases De Introducción.
 ---
 
+### Unidad 1: Introducción a la Ingeniería de Software:
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+* **Fritz Bauer, 1969:** Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+### Definición de Ingeniería de Software.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+### Objetivos de la IS
+* Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
+* Liderar y acoplar el desarrollo de programaciones complicadas.
+* Actuar en todas las fases del ciclo de vida de un producto.
+* Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
+* Realizar el seguimiento de costes y plazos.
+* Liderar equipos de trabajo de desarrollo software.
 
-## Inline HTML elements
+### Origen de IS
+Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+### La evolución del software
+* El término *evolución del software* se utiliza desde los sesenta para denominar la dinámica de crecimiento del software.
+* Una definición atribuida a Lehman y Ramil dice que la evolución del software es *todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa*. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+### La crisis del software
+* La palabra *crisis* se define en el diccionario como *un punto decisivo en el curso de algo; momento, etapa, o evento decisivo o crucial*. Sin embargo para el software no ha habido ningún punto crucial, sólo una lenta evolución.
+* La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay un problema crónico en el desarrollo de software.
 
-Most of these elements are styled by browsers with few modifications on our part.
+### ¿Por qué se crea la IS?
+La ingeniería de software se crea debido a las siguientes características:
+* El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos.
+ * El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio.
+* El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere.
+* El producto de software debe ser eficiente en el uso de los recursos del sistema.
 
-## Heading
+### El software en la actualidad
+Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera:
+* Metodologías ágiles
+* Experimentación
+* Desarrollo dirigido por modelos
+* Líneas de productos software
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### Proceso de Ingenieria de Software
+Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006).
 
-### Code
+### Proceso de Ingenieria de Software:
+### Factores de calidad del software
+**Concepto de Calidad:** Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+**Calidad del Software:** Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+### Métricas del Software
+* 1.-**Métricas técnicas:** Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.
+* 2.-**Métricas de calidad:** Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud, integridad, facilidad de uso, enre otros.
+* 3.-**Métricas de Productividad:** Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.
+* 4.-**Métricas de costo:** se centra en el costo total del sistema informático.
+* 5.-**Métricas orientadas al tamaño:** Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.
+* 6.**-Métricas orientadas a la función o puntos de función:** Son medidas indirectas del software y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+### Problemas en el desarrollo de software
+* **¿Qué es un proyecto software?**
+Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+* **¿Pero que es el software?**
+Según la definición del IEEE, "software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo", y "un producto de software es un producto diseñado para un usuario".
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+* **El software puede dividirse en dos grandes categorías:**
+* Software de aplicaciones
+* Software de sistemas
 
-### Gists via GitHub Pages
+### Ingeniería del software
+La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
 
-Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+### Código de ética (ACM/IEEE)
+**Principios del código**
+* Público
+* Cliente y Empleador
+* Producto
+* Juicio
+* Gerencia
+* Profesión
+* Colegas
+* Interés Propio
 
-{% gist 5555251 gist.md %}
+### Sistemas de Información:
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
+Un sistema de información es un conjunto de elementos interrelacionados con el propósito de *prestar atención a las demandas de información de una organización*, *para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones* (Peña, 2006).
 
-### Lists
+**Un sistema de información realiza cuatro actividades básicas:**
+* Entrada de información
+* Almacenamiento de información
+* Procesamiento de información
+* Salida de información
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### Tipos de sistemas de información
+Los sistemas de información, de manera general se pueden clasificar de tres formas según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistemas de información en tres tipos fundamentales:
+* 1.-*Sistemas transaccionales
+* 2.-*Sistemas de Soporte a la Toma de Decisiones, Sistemas
+* 3.-*Sistemas estratégicos
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+### Elementos de un sistema de información
+* Financieros
+* Administrativos
+* Humanos
+* Materiales
+* Tecnológicos
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Otro autor desconocido (s/a, 2008b), un sistema de información está compuesto por 6 elementos:
+* Base de Datos
+* Transacciones
+* Informes
+* Procesos
+* Usuario
+* Procedimientos Administrativos
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
