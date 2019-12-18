@@ -1,37 +1,30 @@
 ---
 layout: post
-title: Unidad 1
+title: Clases Primer Parcial
 ---
 
-En la unidad 1 tratamos varios temas de suma importancia dentro de la introduccion del software.
+En el primer parcial, se aprendió lo siguiente:
 
-### Puntos Importantes
+**Lenguaje Y Comunicación (Elsy Rodriguez)**:
+* Se desarrolló el pensamiento crítico de cada estudiante, por medio de varios talleres. Cada semana se trabajó esto por medio de diferentes artículos.
+* Uso correcto de la C, S, Z y uso de la H. Usos correctos de los signos de puntuación.
+* Diferentes tipos de texto, enfocado principalmente en el argumentativo.
+* Trabajos de exposición con artículos de manera analítica.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+**Estructuras Discretas (Leili Lopezdominguez)**:
+* **Lógica Matemática:** Negación, conjunción, disyunción. Se practicaron varios ejercicios de este tema.
+* **Conjuntos:** Diagramas de Venn, conjunto referencial, conjunto potencia, conectores de conjuntos. Se practicaron varios ejercicios de este tema.
+* **Técnicas de Conteo:** Teorema de multiplicidad, permutaciones y combinaciones. Se practicaron varios ejercicios de este tema.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+**Algebra Lineal (Belkis Cañizales)**:
+* **Sistemas de Ecuaciones Lineales(SEL)**: Definición de un SEL, definir su gráfica, despejar por medio del metodo de eliminación y sustitución. Se trabajaron varios ejercicios en clase.
+* **Matrices**: Definición de matrices,  clasificación de matrices, matriz transpuesta, matriz adyacente, matriz inversa, como sacar determinante de matrices. Se trabajaron varios ejercicios en clase.
 
-### Hyde features
+**Cálculo Diferencial (Oscar León)**:
+* **Funciones**: Gráfica de funciones, función par e impar, funciones trigonométricas, funciones exponenciales, funciones algebraicas.
+* **Limites**: Limites, limites al infinito, limites cuando tienden a 0, indeterminaciones.
+* **Derivada a 4 pasos**: Como derivar por medio de 4 pasos.
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+**Álgoritmo Y Lógica de Programación (Jenny Ortiz)**:
+* **Introducción**: Que es un algoritmo, que es pseudocódigo, que es un diagrama de flujo, codificación en lenguaje C++, uso de "If"-
+* **Repetición**: Uso de "For", uso de "While", uso de "Switch".
